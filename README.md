@@ -1,6 +1,6 @@
-# Sample of Deffered Rendering in WebGL2
+# Sample of Deferred Rendering in WebGL2
 
-https://aadebdeb.github.io/Sample_WebGL2_DefferedRendering/index.html
+https://aadebdeb.github.io/Sample_WebGL2_DeferredRendering/index.html
 
 ## Result
 
